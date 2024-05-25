@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "name": "iphon 13",
+      "price": 113.2,
+      "imgUrl": "../public/images/iPhone-1.jpg"
+   },
+   {
+      "id": 2,
+      "name": "iphon 13",
+      "price": 113.2,
+      "imgUrl": "../public/images/iPhone-2.jpg"
+   },
+   {
+      "id": 3,
+      "name": "iphon 13",
+      "price": 113.2,
+      "imgUrl": "../public/images/iPhone-3.jpg"
+   },
+   {
+      "id": 4,
+      "name": "iphon 13",
+      "price": 113.2,
+      "imgUrl": "../public/images/iPhone-4.jpg"
+   },
+   {
+      "id": 5,
+      "name": "iphon 13",
+      "price": 113.2,
+      "imgUrl": "../public/images/iPhone-5.jpg"
+   }
+]

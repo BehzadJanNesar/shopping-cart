@@ -4,10 +4,11 @@ import Home from "./pages/Home";
 import Store from "./pages/Store";
 import About from "./pages/About";
 import Navbar from "./components/Navbar";
+import { UseShoppingProvider } from "./context/shoppingContext";
 
 function App() {
    return (
-      <>
+      <UseShoppingProvider>
          <Navbar />
          <Container>
             <Routes>
@@ -16,7 +17,7 @@ function App() {
                <Route path="/about" element={<About />} />
             </Routes>
          </Container>
-      </>
+      </UseShoppingProvider>
    );
 }
 
